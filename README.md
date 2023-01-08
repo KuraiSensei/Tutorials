@@ -1,13 +1,15 @@
 Thank you for Reading me
 
-The Word and PDF files are the Tutorial behaviours
-The Builted Unity Folder is All the behaviours combined and Produced/ Built
-Logs and Journals are Xcel sheets that have my Logs and Journals
-Unity Version Folder, is the folder of Unity project that I combined all the behaviours
+Each of the 'Tutorial Behaviours' are in Word and PDF format.
 
-Again, Thank you for your Time
+***"Logs"*** and ***"Journals"*** are Xcel sheets that ketp track of my Logs and Journals for this process.
+
+***"Unity Version Folder"*** is the folder of Unity project that I combined all the behaviours to make one mini game.
+
+***"The Builted Unity"*** Folder is the said mini game ready to play.
+
+Again, Thank you for your time
 
 Kind Trgards
-
 
 Hamie
